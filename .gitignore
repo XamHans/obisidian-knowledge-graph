@@ -1,0 +1,11 @@
+# Obsidian / System
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.DS_Store
+*.tmp
+
+# The Private Layer (Local Execution)
+Applied/
+Sources/
+Daily_Notes/
+mindmap/
