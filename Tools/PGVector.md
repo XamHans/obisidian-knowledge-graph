@@ -24,9 +24,9 @@ linked_hubs:
 - [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^hierarchical]]
 
 ## Related Concepts
-- [[Resources/Concepts/RAG_Re_Ranking]]
-- [[Resources/Concepts/Multi_Query_RAG]]
-- [[Resources/Concepts/Hierarchical_RAG]]
+- [[Concepts/RAG_Re_Ranking]]
+- [[Concepts/Multi_Query_RAG]]
+- [[Concepts/Hierarchical_RAG]]
 
 ## Linked Hubs
 - [[Hubs/RAG]]

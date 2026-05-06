@@ -34,22 +34,22 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/Google_Cloud_Run]]
-- [[Technologies/Docker]]
-- [[Resources/Technologies/BentoML]]
+- [[Tools/Google_Cloud_Run]]
+- [[Tools/Docker]]
+- [[Tools/BentoML]]
 
 ## Related Concepts
-- [[Resources/Concepts/Context_Window_And_Attention_Budget]]
-- [[Resources/Concepts/Model_Generalization_And_Overfitting]]
-- [[Resources/Concepts/Agent_Architecture_Patterns]]
-- [[Resources/Concepts/KV_Cache_And_Prefill_Decode_Phases]]
-- [[Resources/Concepts/Distributed_LLM_Inference]]
-- [[Resources/Concepts/Serverless_Vs_Self_Hosted_Inference]]
-- [[Resources/Concepts/AI_Inference_Hardware]]
-- [[Resources/Concepts/LLM_Inference_Lifecycle]]
+- [[Concepts/Context_Window_And_Attention_Budget]]
+- [[Concepts/Model_Generalization_And_Overfitting]]
+- [[Concepts/Agent_Architecture_Patterns]]
+- [[Concepts/KV_Cache_And_Prefill_Decode_Phases]]
+- [[Concepts/Distributed_LLM_Inference]]
+- [[Concepts/Serverless_Vs_Self_Hosted_Inference]]
+- [[Concepts/AI_Inference_Hardware]]
+- [[Concepts/LLM_Inference_Lifecycle]]
 
 > Related Hub: [[Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

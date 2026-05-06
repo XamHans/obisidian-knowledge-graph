@@ -18,19 +18,19 @@ persona: Professional Seeking AI Mastery
 - [[Resources/Processed_Transcripts/MCP_Course_Architecture_Transport_Server_Deployment]]
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Resources/Technologies/Model_Context_Protocol]]
-- [[Technologies/FastMCP]]
-- [[Technologies/OpenAI_Apps_SDK]]
+- [[Tools/Model_Context_Protocol]]
+- [[Tools/FastMCP]]
+- [[Tools/OpenAI_Apps_SDK]]
 
 ## Related Concepts
-- [[Resources/Concepts/Tool_Schema_Design_For_Agent_Tools]]
-- [[Resources/Concepts/Tool_Calling_Guardrails_And_Recovery]]
-- [[Resources/Concepts/Self_Reflective_RAG]]
-- [[Resources/Concepts/Tool_Use_And_Action_Policies]]
-- [[Resources/Concepts/Agent_Observability_And_Evaluation]]
+- [[Concepts/Tool_Schema_Design_For_Agent_Tools]]
+- [[Concepts/Tool_Calling_Guardrails_And_Recovery]]
+- [[Concepts/Self_Reflective_RAG]]
+- [[Concepts/Tool_Use_And_Action_Policies]]
+- [[Concepts/Agent_Observability_And_Evaluation]]
 
 > Related Hub: [[Hubs/Agent_Tool_Calling]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

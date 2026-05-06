@@ -4,14 +4,14 @@
 - Maintain a tightly connected knowledge base that turns raw transcripts and supporting material into reusable insights for AI engineering work, content production, and community assets with consistent linking.
 
 ## Structure
-![[Assets/Agents/vault_structure_overview.md]]
+![[Assets/Agents/vault_structure_overview]]
 
 ## CLI Query Playbook
 Run these illustrative commands from the vault root. Treat them as starting points—swap folders, block IDs, or section names to match the note you are auditing. `rg` (ripgrep) handles text searches; `fd` lists files and directories.
 
 - `rg --files -g '*.md' Concepts Applied Sources Tools Hubs Assets` — inventory the core knowledge buckets.
 - `fd -t d -d 1` — refresh your mental model of top-level folders prior to a sweep.
-- `rg -n "[[Applied/AI_Native_Engineer]]"` — surface every CTA and backlink into the core project.
+- `rg -n "[[START_HERE]]"` — surface every CTA and backlink into the public entry point.
 - `rg -n '#^model-compare' Sources` — locate transcripts citing a specific highlight.
 - `rg -c '\[\[' Sources | sort -t: -k2n` — rank sources by outbound link count.
 - `rg -n '^type: applied' Applied` — list project briefs by front matter.
@@ -31,7 +31,7 @@ Run these illustrative commands from the vault root. Treat them as starting poin
 ## Guidelines for an AI-Assisted CLI Agent
 1. **Enforce naming and metadata:** When creating notes from transcripts, craft descriptive titles and inject standard front matter (category, tags, created date) via templates.
 2. **Adopt underscore filenames:** Use underscores (`_`) for every file and directory name.
-3. **Anchor to the core node:** Ensure every note includes `> Core Node: [[Applied/AI_Native_Engineer]]`.
+3. **Anchor to the core node:** Ensure every note includes `> Core Node: [[START_HERE]]`.
 4. **Validate links:** Search for `[[` patterns, confirm targets exist, and flag link gaps.
 5. **Keep folders aligned:** Apply CAST rules.
 6. **Refresh MOCs:** Rebuild hub notes from backlinks or folder scans.
@@ -40,4 +40,4 @@ Run these illustrative commands from the vault root. Treat them as starting poin
 9. **Maintain a single vault:** Encourage consolidation.
 10. **Reference the style guide:** Keep naming conventions and tag syntax documented.
 
-> Core Node: [[Applied/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

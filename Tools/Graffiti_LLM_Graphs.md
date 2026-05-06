@@ -22,8 +22,8 @@ linked_hubs:
 - [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^kg-balance]]
 
 ## Related Concepts
-- [[Resources/Concepts/Knowledge_Graph_RAG]]
-- [[Resources/Concepts/RAG_Re_Ranking]]
+- [[Concepts/Knowledge_Graph_RAG]]
+- [[Concepts/RAG_Re_Ranking]]
 
 ## Linked Hubs
 - [[Hubs/RAG]]

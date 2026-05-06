@@ -27,16 +27,16 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/OpenAI_Apps_SDK]]
-- [[Technologies/MCP_Apps]]
+- [[Tools/OpenAI_Apps_SDK]]
+- [[Tools/MCP_Apps]]
 
 ## Related Concepts
-- [[Resources/Concepts/Vision_Transformers]]
-- [[Resources/Concepts/Representation_Learning_For_Vision]]
-- [[Resources/Concepts/Agent_Architecture_Patterns]]
+- [[Concepts/Vision_Transformers]]
+- [[Concepts/Representation_Learning_For_Vision]]
+- [[Concepts/Agent_Architecture_Patterns]]
 
 > Related Hub: [[Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

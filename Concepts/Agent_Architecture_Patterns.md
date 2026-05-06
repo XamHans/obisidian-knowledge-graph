@@ -27,17 +27,17 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/FastMCP]]
-- [[Technologies/Model_Context_Protocol]]
+- [[Tools/FastMCP]]
+- [[Tools/Model_Context_Protocol]]
 
 ## Related Concepts
-- [[Resources/Concepts/Planning_And_Reasoning_Strategies]]
-- [[Resources/Concepts/Agent_Memory_Patterns]]
-- [[Resources/Concepts/Tool_Use_And_Action_Policies]]
-- [[Resources/Concepts/Multi_Agent_Coordination]]
+- [[Concepts/Planning_And_Reasoning_Strategies]]
+- [[Concepts/Agent_Memory_Patterns]]
+- [[Concepts/Tool_Use_And_Action_Policies]]
+- [[Concepts/Multi_Agent_Coordination]]
 
 > Related Hub: [[Hubs/AI_Agents]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

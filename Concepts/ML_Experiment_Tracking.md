@@ -26,12 +26,12 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Training_Validation_Test_Splits]]
-- [[Resources/Concepts/Model_Generalization_And_Overfitting]]
-- [[Resources/Concepts/Evaluation_Metrics_Classification_Regression]]
+- [[Concepts/Training_Validation_Test_Splits]]
+- [[Concepts/Model_Generalization_And_Overfitting]]
+- [[Concepts/Evaluation_Metrics_Classification_Regression]]
 
-> Related Hub: [[Resources/Hubs/Machine_Learning]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/Machine_Learning]]
+> Core Node: [[START_HERE]]

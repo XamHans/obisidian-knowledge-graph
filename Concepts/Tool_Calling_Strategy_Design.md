@@ -26,12 +26,12 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Tool_Calling_Failure_Modes]]
-- [[Resources/Concepts/Tool_Schema_Design_For_Agent_Tools]]
-- [[Resources/Concepts/Tool_Calling_Guardrails_And_Recovery]]
+- [[Concepts/Tool_Calling_Failure_Modes]]
+- [[Concepts/Tool_Schema_Design_For_Agent_Tools]]
+- [[Concepts/Tool_Calling_Guardrails_And_Recovery]]
 
-> Related Hub: [[Resources/Hubs/Agent_Tool_Calling]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/Agent_Tool_Calling]]
+> Core Node: [[START_HERE]]

@@ -8,20 +8,20 @@ persona: Professional Seeking AI Mastery
 - Hub for machine learning foundations: learning paradigms, evaluation discipline, and generalization principles that support reliable AI systems.
 
 ## Map of Content
-- **Concepts**: [[Resources/Concepts/Supervised_Learning]], [[Resources/Concepts/Unsupervised_Learning]], [[Resources/Concepts/Self_Supervised_Learning]], [[Resources/Concepts/Reinforcement_Learning_Foundations]], [[Resources/Concepts/Training_Validation_Test_Splits]], [[Resources/Concepts/Model_Generalization_And_Overfitting]], [[Resources/Concepts/Bias_Variance_Tradeoff]], [[Resources/Concepts/Feature_Engineering]], [[Resources/Concepts/Hyperparameter_Optimization]], [[Resources/Concepts/Data_Centric_AI]], [[Resources/Concepts/ML_Experiment_Tracking]], [[Resources/Concepts/Model_Calibration]], [[Resources/Concepts/Concept_Drift_And_Data_Drift]], [[Resources/Concepts/Evaluation_Metrics_Classification_Regression]], [[Resources/Concepts/LLM_As_Judge_Evaluation]]
-- **Related Domains**: [[Resources/Hubs/Generative_AI]], [[Resources/Hubs/Computer_Vision]], [[Resources/Hubs/AI_Agents]], [[Resources/Hubs/RAG]], [[Resources/Hubs/LLM_Evals]]
-- **Technologies**: [[Technologies/Neon_Postgres]], [[Technologies/PGVector]], [[Technologies/Docker]], [[Resources/Software/Phoenix]]
+- **Concepts**: [[Concepts/Supervised_Learning]], [[Concepts/Unsupervised_Learning]], [[Concepts/Self_Supervised_Learning]], [[Concepts/Reinforcement_Learning_Foundations]], [[Concepts/Training_Validation_Test_Splits]], [[Concepts/Model_Generalization_And_Overfitting]], [[Concepts/Bias_Variance_Tradeoff]], [[Concepts/Feature_Engineering]], [[Concepts/Hyperparameter_Optimization]], [[Concepts/Data_Centric_AI]], [[Concepts/ML_Experiment_Tracking]], [[Concepts/Model_Calibration]], [[Concepts/Concept_Drift_And_Data_Drift]], [[Concepts/Evaluation_Metrics_Classification_Regression]], [[Concepts/LLM_As_Judge_Evaluation]]
+- **Related Domains**: [[Hubs/Generative_AI]], [[Hubs/Computer_Vision]], [[Hubs/AI_Agents]], [[Hubs/RAG]], [[Hubs/LLM_Evals]]
+- **Technologies**: [[Tools/Neon_Postgres]], [[Tools/PGVector]], [[Tools/Docker]], [[Tools/Phoenix]]
 
 ## Linked Technologies
-- [[Technologies/Neon_Postgres]]
-- [[Technologies/PGVector]]
-- [[Technologies/Docker]]
+- [[Tools/Neon_Postgres]]
+- [[Tools/PGVector]]
+- [[Tools/Docker]]
 
 ## Related Hubs
-- [[Resources/Hubs/Generative_AI]]
-- [[Resources/Hubs/Computer_Vision]]
-- [[Resources/Hubs/AI_Agents]]
-- [[Resources/Hubs/RAG]]
-- [[Resources/Hubs/LLM_Evals]]
+- [[Hubs/Generative_AI]]
+- [[Hubs/Computer_Vision]]
+- [[Hubs/AI_Agents]]
+- [[Hubs/RAG]]
+- [[Hubs/LLM_Evals]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

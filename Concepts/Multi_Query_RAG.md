@@ -18,17 +18,17 @@ persona: Professional Seeking AI Mastery
 - [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^rerank-stack]]
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/PGVector]]
-- [[Technologies/Neon_Postgres]]
+- [[Tools/PGVector]]
+- [[Tools/Neon_Postgres]]
 
 ## Related Concepts
-- [[Resources/Concepts/RAG_Re_Ranking]]
-- [[Resources/Concepts/Query_Expansion_RAG]]
-- [[Resources/Concepts/Self_Reflective_RAG]]
+- [[Concepts/RAG_Re_Ranking]]
+- [[Concepts/Query_Expansion_RAG]]
+- [[Concepts/Self_Reflective_RAG]]
 
 > Related Hub: [[Hubs/RAG]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

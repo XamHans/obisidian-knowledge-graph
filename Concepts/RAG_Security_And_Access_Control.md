@@ -26,12 +26,12 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Contextual_Retrieval]]
-- [[Resources/Concepts/RAG_Re_Ranking]]
-- [[Resources/Concepts/RAG_Evaluation_And_Groundedness]]
+- [[Concepts/Contextual_Retrieval]]
+- [[Concepts/RAG_Re_Ranking]]
+- [[Concepts/RAG_Evaluation_And_Groundedness]]
 
-> Related Hub: [[Resources/Hubs/RAG]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/RAG]]
+> Core Node: [[START_HERE]]

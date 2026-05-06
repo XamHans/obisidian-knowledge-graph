@@ -27,17 +27,17 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Resources/Software/Phoenix]]
-- [[Technologies/Neon_Postgres]]
+- [[Tools/Phoenix]]
+- [[Tools/Neon_Postgres]]
 
 ## Related Concepts
-- [[Resources/Concepts/Training_Validation_Test_Splits]]
-- [[Resources/Concepts/Model_Generalization_And_Overfitting]]
-- [[Resources/Concepts/Evaluation_Metrics_Classification_Regression]]
-- [[Resources/Concepts/Feature_Engineering]]
+- [[Concepts/Training_Validation_Test_Splits]]
+- [[Concepts/Model_Generalization_And_Overfitting]]
+- [[Concepts/Evaluation_Metrics_Classification_Regression]]
+- [[Concepts/Feature_Engineering]]
 
 > Related Hub: [[Hubs/Machine_Learning]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

@@ -52,17 +52,17 @@ evidence_status: has_receipts
 - [[Resources/Processed_Transcripts/Improving_Agentic_Products_Adam_Lucek#^criteria-drift]]
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Resources/Software/Phoenix]]
+- [[Tools/Phoenix]]
 
 ## Related Concepts
-- [[Resources/Concepts/LLM_As_Judge_Evaluation]]
-- [[Resources/Concepts/LLM_Judge_Meta_Evaluation]]
-- [[Resources/Concepts/Agent_Observability_And_Evaluation]]
-- [[Resources/Concepts/Agent_Evaluation_And_Benchmarking]]
-- [[Resources/Concepts/Evaluation_Metrics_Classification_Regression]]
+- [[Concepts/LLM_As_Judge_Evaluation]]
+- [[Concepts/LLM_Judge_Meta_Evaluation]]
+- [[Concepts/Agent_Observability_And_Evaluation]]
+- [[Concepts/Agent_Evaluation_And_Benchmarking]]
+- [[Concepts/Evaluation_Metrics_Classification_Regression]]
 
 > Related Hub: [[Hubs/LLM_Evals]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

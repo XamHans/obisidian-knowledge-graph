@@ -25,8 +25,8 @@ linked_hubs:
 - [[Resources/Processed_Transcripts/MCP_Apps_Official_Guide#^mcpapps-testing]]
 
 ## Related Concepts
-- [[Resources/Concepts/MCP_Apps_Use_Cases]]
-- [[Resources/Concepts/ChatGPT_Apps_MCP_Architecture]]
+- [[Concepts/MCP_Apps_Use_Cases]]
+- [[Concepts/ChatGPT_Apps_MCP_Architecture]]
 
 ## Linked Hubs
 - [[Hubs/ChatGPT_Apps]]

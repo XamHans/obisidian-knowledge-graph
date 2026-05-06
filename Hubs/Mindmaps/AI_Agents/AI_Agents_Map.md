@@ -41,4 +41,4 @@
 - Generative AI
 - Machine Learning
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

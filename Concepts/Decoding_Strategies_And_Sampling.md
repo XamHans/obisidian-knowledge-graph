@@ -32,14 +32,14 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Prompt_Engineering_Patterns]]
-- [[Resources/Concepts/Transformer_Architecture]]
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
-- [[Resources/Concepts/KV_Cache_And_Prefill_Decode_Phases]]
-- [[Resources/Concepts/LLM_Inference_Lifecycle]]
+- [[Concepts/Prompt_Engineering_Patterns]]
+- [[Concepts/Transformer_Architecture]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/KV_Cache_And_Prefill_Decode_Phases]]
+- [[Concepts/LLM_Inference_Lifecycle]]
 
-> Related Hub: [[Resources/Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/Generative_AI]]
+> Core Node: [[START_HERE]]

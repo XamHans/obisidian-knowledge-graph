@@ -18,4 +18,4 @@
 ## Execution Rule
 - Log: user intent, selected tool, payload, validation result, side effect, recovery action, final outcome.
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

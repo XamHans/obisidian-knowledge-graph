@@ -30,18 +30,18 @@ evidence_backlog:
 - BentoML LLM Inference Handbook — Serverless vs Self-Hosted LLM Inference (2025).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Resources/Technologies/BentoML]]
-- [[Technologies/Google_Cloud_Run]]
+- [[Tools/BentoML]]
+- [[Tools/Google_Cloud_Run]]
 
 ## Related Concepts
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
-- [[Resources/Concepts/AI_Inference_Hardware]]
-- [[Resources/Concepts/Model_Routing_Strategies]]
-- [[Resources/Concepts/LLM_Training_Vs_Inference]]
-- [[Resources/Concepts/LLM_Inference_Lifecycle]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/AI_Inference_Hardware]]
+- [[Concepts/Model_Routing_Strategies]]
+- [[Concepts/LLM_Training_Vs_Inference]]
+- [[Concepts/LLM_Inference_Lifecycle]]
 
-> Related Hub: [[Resources/Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/Generative_AI]]
+> Core Node: [[START_HERE]]

@@ -27,13 +27,13 @@ evidence_status: has_receipts
 - [[Resources/Processed_Transcripts/Improving_Agentic_Products_Adam_Lucek#^eval-metric-selection]]
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Agent_Observability_And_Evaluation]]
-- [[Resources/Concepts/Tool_Calling_Failure_Modes]]
-- [[Resources/Concepts/Agent_Benchmark_Suites]]
-- [[Resources/Concepts/Eval_Engineering_Lifecycle]]
+- [[Concepts/Agent_Observability_And_Evaluation]]
+- [[Concepts/Tool_Calling_Failure_Modes]]
+- [[Concepts/Agent_Benchmark_Suites]]
+- [[Concepts/Eval_Engineering_Lifecycle]]
 
-> Related Hub: [[Resources/Hubs/AI_Agents]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/AI_Agents]]
+> Core Node: [[START_HERE]]

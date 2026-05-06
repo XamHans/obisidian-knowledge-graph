@@ -27,17 +27,17 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/Docker]]
-- [[Technologies/Google_Cloud_Run]]
+- [[Tools/Docker]]
+- [[Tools/Google_Cloud_Run]]
 
 ## Related Concepts
-- [[Resources/Concepts/Semantic_Segmentation]]
-- [[Resources/Concepts/Dataset_Labeling_And_Annotation_Quality]]
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
-- [[Resources/Concepts/Image_Classification]]
+- [[Concepts/Semantic_Segmentation]]
+- [[Concepts/Dataset_Labeling_And_Annotation_Quality]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/Image_Classification]]
 
 > Related Hub: [[Hubs/Computer_Vision]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

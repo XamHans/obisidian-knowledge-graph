@@ -22,10 +22,10 @@ linked_hubs:
 - [[Resources/Processed_Transcripts/MCP_Course_Architecture_Transport_Server_Deployment]]
 
 ## Related Concepts
-- [[Resources/Concepts/Tool_Calling_Failure_Modes]]
-- [[Resources/Concepts/Tool_Schema_Design_For_Agent_Tools]]
+- [[Concepts/Tool_Calling_Failure_Modes]]
+- [[Concepts/Tool_Schema_Design_For_Agent_Tools]]
 
 ## Linked Hubs
 - [[Hubs/Model_Context_Protocol]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

@@ -17,17 +17,17 @@ persona: Professional Seeking AI Mastery
 - [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^kg-balance]]
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/Graffiti_LLM_Graphs]]
-- [[Technologies/PGVector]]
+- [[Tools/Graffiti_LLM_Graphs]]
+- [[Tools/PGVector]]
 
 ## Related Concepts
-- [[Resources/Concepts/RAG_Re_Ranking]]
-- [[Resources/Concepts/Hierarchical_RAG]]
-- [[Resources/Concepts/Contextual_Retrieval]]
+- [[Concepts/RAG_Re_Ranking]]
+- [[Concepts/Hierarchical_RAG]]
+- [[Concepts/Contextual_Retrieval]]
 
 > Related Hub: [[Hubs/RAG]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

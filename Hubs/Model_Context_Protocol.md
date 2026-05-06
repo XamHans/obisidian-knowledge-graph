@@ -12,16 +12,16 @@ child_hubs:
 
 ## Map of Content
 - **Transcripts**: [[Resources/Processed_Transcripts/MCP_Course_Architecture_Transport_Server_Deployment]]
-- **Technologies**: [[Technologies/Model_Context_Protocol]], [[Technologies/FastMCP]], [[Technologies/Docker]], [[Technologies/Google_Cloud_Run]], [[Technologies/MCP_Apps]]
+- **Technologies**: [[Tools/Model_Context_Protocol]], [[Tools/FastMCP]], [[Tools/Docker]], [[Tools/Google_Cloud_Run]], [[Tools/MCP_Apps]]
 - **Child Hubs**: [[Hubs/ChatGPT_Apps]] (MCP-based UI/connector layer), [[Hubs/Agent_Tool_Calling]] (tool-routing reliability and runtime safety)
 - **Related Hubs**: [[Hubs/AI_Agents]]
-- **Frameworks**: [[Resources/Script_Frameworks/Tool_Calling_Experiment_Lab]], plus proposed `Resources/Script_Frameworks/MCP_Server_Launch_Checklist` (transports, discovery, deployment)
+- **Frameworks**: [[Assets/Tool_Calling_Experiment_Lab]], plus proposed `Resources/Script_Frameworks/MCP_Server_Launch_Checklist` (transports, discovery, deployment)
 
 ## Linked Technologies
-- [[Technologies/Model_Context_Protocol]]
-- [[Technologies/FastMCP]]
-- [[Technologies/Docker]]
-- [[Technologies/Google_Cloud_Run]]
-- [[Technologies/MCP_Apps]]
+- [[Tools/Model_Context_Protocol]]
+- [[Tools/FastMCP]]
+- [[Tools/Docker]]
+- [[Tools/Google_Cloud_Run]]
+- [[Tools/MCP_Apps]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

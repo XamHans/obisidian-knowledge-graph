@@ -8,19 +8,19 @@ persona: Professional Seeking AI Mastery
 - Hub for computer vision fundamentals: perception tasks, representation learning, and dataset quality practices for production-grade visual AI.
 
 ## Map of Content
-- **Concepts**: [[Resources/Concepts/Image_Classification]], [[Resources/Concepts/Object_Detection]], [[Resources/Concepts/Semantic_Segmentation]], [[Resources/Concepts/Instance_Segmentation]], [[Resources/Concepts/Keypoint_Pose_Estimation]], [[Resources/Concepts/OCR_Pipelines]], [[Resources/Concepts/Image_Retrieval]], [[Resources/Concepts/Video_Understanding]], [[Resources/Concepts/Tracking_And_Re_Identification]], [[Resources/Concepts/Vision_Transformers]], [[Resources/Concepts/Representation_Learning_For_Vision]], [[Resources/Concepts/Synthetic_Data_For_Vision]], [[Resources/Concepts/Dataset_Labeling_And_Annotation_Quality]], [[Resources/Concepts/Vision_Model_Evaluation_Safety]]
-- **Related Domains**: [[Resources/Hubs/Machine_Learning]], [[Resources/Hubs/Generative_AI]], [[Resources/Hubs/AI_Agents]], [[Resources/Hubs/RAG]]
-- **Technologies**: [[Technologies/Docker]], [[Technologies/Google_Cloud_Run]], [[Technologies/OpenAI_Apps_SDK]]
+- **Concepts**: [[Concepts/Image_Classification]], [[Concepts/Object_Detection]], [[Concepts/Semantic_Segmentation]], [[Concepts/Instance_Segmentation]], [[Concepts/Keypoint_Pose_Estimation]], [[Concepts/OCR_Pipelines]], [[Concepts/Image_Retrieval]], [[Concepts/Video_Understanding]], [[Concepts/Tracking_And_Re_Identification]], [[Concepts/Vision_Transformers]], [[Concepts/Representation_Learning_For_Vision]], [[Concepts/Synthetic_Data_For_Vision]], [[Concepts/Dataset_Labeling_And_Annotation_Quality]], [[Concepts/Vision_Model_Evaluation_Safety]]
+- **Related Domains**: [[Hubs/Machine_Learning]], [[Hubs/Generative_AI]], [[Hubs/AI_Agents]], [[Hubs/RAG]]
+- **Technologies**: [[Tools/Docker]], [[Tools/Google_Cloud_Run]], [[Tools/OpenAI_Apps_SDK]]
 
 ## Linked Technologies
-- [[Technologies/Docker]]
-- [[Technologies/Google_Cloud_Run]]
-- [[Technologies/OpenAI_Apps_SDK]]
+- [[Tools/Docker]]
+- [[Tools/Google_Cloud_Run]]
+- [[Tools/OpenAI_Apps_SDK]]
 
 ## Related Hubs
-- [[Resources/Hubs/Machine_Learning]]
-- [[Resources/Hubs/Generative_AI]]
-- [[Resources/Hubs/AI_Agents]]
-- [[Resources/Hubs/RAG]]
+- [[Hubs/Machine_Learning]]
+- [[Hubs/Generative_AI]]
+- [[Hubs/AI_Agents]]
+- [[Hubs/RAG]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

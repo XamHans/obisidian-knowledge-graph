@@ -18,4 +18,4 @@
 ## Execution Rule
 - Publish rubric, failure taxonomy, and rollback criteria for each experiment.
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

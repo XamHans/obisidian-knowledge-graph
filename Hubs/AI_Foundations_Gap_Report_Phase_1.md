@@ -33,11 +33,11 @@ phase: ai_foundations_phase_1
 - Promote the top 6 high-impact concepts into deeper implementation playbooks.
 
 ## Related
-- [[Resources/Hubs/Machine_Learning]]
-- [[Resources/Hubs/Computer_Vision]]
-- [[Resources/Hubs/Generative_AI]]
-- [[Resources/Hubs/AI_Agents]]
-- [[Resources/Hubs/RAG]]
-- [[Resources/Hubs/Model_Context_Protocol]]
+- [[Hubs/Machine_Learning]]
+- [[Hubs/Computer_Vision]]
+- [[Hubs/Generative_AI]]
+- [[Hubs/AI_Agents]]
+- [[Hubs/RAG]]
+- [[Hubs/Model_Context_Protocol]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

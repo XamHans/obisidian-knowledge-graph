@@ -22,7 +22,7 @@ linked_hubs:
 - [[Resources/Processed_Transcripts/MCP_Course_Technova_Server_Deployment#^deploy-host]]
 
 ## Related Concepts
-- [[Resources/Concepts/MCP_Production_Workflows]]
+- [[Concepts/MCP_Production_Workflows]]
 
 ## Linked Hubs
 - [[Hubs/Model_Context_Protocol]]

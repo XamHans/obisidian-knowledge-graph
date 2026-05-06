@@ -29,18 +29,18 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/PGVector]]
-- [[Technologies/Neon_Postgres]]
+- [[Tools/PGVector]]
+- [[Tools/Neon_Postgres]]
 
 ## Related Concepts
-- [[Resources/Concepts/Transformer_Architecture]]
-- [[Resources/Concepts/RAG_Re_Ranking]]
-- [[Resources/Concepts/Hierarchical_RAG]]
-- [[Resources/Concepts/KV_Cache_And_Prefill_Decode_Phases]]
-- [[Resources/Concepts/LLM_Inference_Lifecycle]]
+- [[Concepts/Transformer_Architecture]]
+- [[Concepts/RAG_Re_Ranking]]
+- [[Concepts/Hierarchical_RAG]]
+- [[Concepts/KV_Cache_And_Prefill_Decode_Phases]]
+- [[Concepts/LLM_Inference_Lifecycle]]
 
 > Related Hub: [[Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

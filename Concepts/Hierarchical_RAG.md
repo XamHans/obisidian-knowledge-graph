@@ -18,18 +18,18 @@ persona: Professional Seeking AI Mastery
 - [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^agentic-routing]]
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/Neon_Postgres]]
-- [[Technologies/PGVector]]
-- [[Technologies/Dockling]]
+- [[Tools/Neon_Postgres]]
+- [[Tools/PGVector]]
+- [[Tools/Dockling]]
 
 ## Related Concepts
-- [[Resources/Concepts/Agentic_RAG]]
-- [[Resources/Concepts/Context_Aware_Chunking]]
-- [[Resources/Concepts/RAG_Re_Ranking]]
+- [[Concepts/Agentic_RAG]]
+- [[Concepts/Context_Aware_Chunking]]
+- [[Concepts/RAG_Re_Ranking]]
 
 > Related Hub: [[Hubs/RAG]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

@@ -24,8 +24,8 @@ linked_hubs:
 - [[Resources/Processed_Transcripts/ChatGPT_Apps_SDK_Todo_Quickstart#^apps-connector-path]]
 
 ## Related Concepts
-- [[Resources/Concepts/ChatGPT_Apps_MCP_Architecture]]
-- [[Resources/Concepts/MCP_Production_Workflows]]
+- [[Concepts/ChatGPT_Apps_MCP_Architecture]]
+- [[Concepts/MCP_Production_Workflows]]
 
 ## Linked Hubs
 - [[Hubs/ChatGPT_Apps]]

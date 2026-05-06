@@ -30,18 +30,18 @@ evidence_status: has_receipts
 - [[Resources/Processed_Transcripts/Improving_Agentic_Products_Adam_Lucek#^criteria-drift]]
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Resources/Software/Phoenix]]
-- [[Technologies/FastMCP]]
+- [[Tools/Phoenix]]
+- [[Tools/FastMCP]]
 
 ## Related Concepts
-- [[Resources/Concepts/Evaluation_Metrics_Classification_Regression]]
-- [[Resources/Concepts/Planning_And_Reasoning_Strategies]]
-- [[Resources/Concepts/Tool_Calling_Failure_Modes]]
-- [[Resources/Concepts/LLM_Judge_Meta_Evaluation]]
-- [[Resources/Concepts/Eval_Engineering_Lifecycle]]
+- [[Concepts/Evaluation_Metrics_Classification_Regression]]
+- [[Concepts/Planning_And_Reasoning_Strategies]]
+- [[Concepts/Tool_Calling_Failure_Modes]]
+- [[Concepts/LLM_Judge_Meta_Evaluation]]
+- [[Concepts/Eval_Engineering_Lifecycle]]
 
 > Related Hub: [[Hubs/AI_Agents]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

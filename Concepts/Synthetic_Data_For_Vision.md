@@ -26,12 +26,12 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Representation_Learning_For_Vision]]
-- [[Resources/Concepts/Dataset_Labeling_And_Annotation_Quality]]
-- [[Resources/Concepts/Vision_Transformers]]
+- [[Concepts/Representation_Learning_For_Vision]]
+- [[Concepts/Dataset_Labeling_And_Annotation_Quality]]
+- [[Concepts/Vision_Transformers]]
 
-> Related Hub: [[Resources/Hubs/Computer_Vision]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/Computer_Vision]]
+> Core Node: [[START_HERE]]

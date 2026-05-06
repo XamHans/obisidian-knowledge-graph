@@ -34,4 +34,4 @@
 - RAG And Knowledge Systems
 - AI Agents
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

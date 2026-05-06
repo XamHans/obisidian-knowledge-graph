@@ -29,19 +29,19 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/OpenAI_Apps_SDK]]
-- [[Technologies/Model_Context_Protocol]]
+- [[Tools/OpenAI_Apps_SDK]]
+- [[Tools/Model_Context_Protocol]]
 
 ## Related Concepts
-- [[Resources/Concepts/Context_Window_And_Attention_Budget]]
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
-- [[Resources/Concepts/Vision_Transformers]]
-- [[Resources/Concepts/KV_Cache_And_Prefill_Decode_Phases]]
-- [[Resources/Concepts/LLM_Inference_Lifecycle]]
-- [[Resources/Concepts/AI_Inference_Hardware]]
+- [[Concepts/Context_Window_And_Attention_Budget]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/Vision_Transformers]]
+- [[Concepts/KV_Cache_And_Prefill_Decode_Phases]]
+- [[Concepts/LLM_Inference_Lifecycle]]
+- [[Concepts/AI_Inference_Hardware]]
 
 > Related Hub: [[Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

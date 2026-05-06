@@ -29,14 +29,14 @@ evidence_backlog:
 - BentoML LLM Inference Handbook — Training vs Inference Differences (2025).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
-- [[Resources/Concepts/AI_Inference_Hardware]]
-- [[Resources/Concepts/Fine_Tuning_Adaptation_Strategies]]
-- [[Resources/Concepts/Transformer_Architecture]]
-- [[Resources/Concepts/LLM_Inference_Lifecycle]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/AI_Inference_Hardware]]
+- [[Concepts/Fine_Tuning_Adaptation_Strategies]]
+- [[Concepts/Transformer_Architecture]]
+- [[Concepts/LLM_Inference_Lifecycle]]
 
-> Related Hub: [[Resources/Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/Generative_AI]]
+> Core Node: [[START_HERE]]

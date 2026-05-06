@@ -33,15 +33,15 @@ evidence_backlog:
 - BentoML LLM Inference Handbook — CPU vs GPU vs TPU (2025).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
-- [[Resources/Concepts/LLM_Training_Vs_Inference]]
-- [[Resources/Concepts/Distributed_LLM_Inference]]
-- [[Resources/Concepts/Serverless_Vs_Self_Hosted_Inference]]
-- [[Resources/Concepts/KV_Cache_And_Prefill_Decode_Phases]]
-- [[Resources/Concepts/LLM_Inference_Lifecycle]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/LLM_Training_Vs_Inference]]
+- [[Concepts/Distributed_LLM_Inference]]
+- [[Concepts/Serverless_Vs_Self_Hosted_Inference]]
+- [[Concepts/KV_Cache_And_Prefill_Decode_Phases]]
+- [[Concepts/LLM_Inference_Lifecycle]]
 
-> Related Hub: [[Resources/Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/Generative_AI]]
+> Core Node: [[START_HERE]]

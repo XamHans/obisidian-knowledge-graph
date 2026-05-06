@@ -18,4 +18,4 @@
 ## Execution Rule
 - For each run, capture retrieval candidates, rerank scores, final citations, and failure class.
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

@@ -18,4 +18,4 @@
 ## Execution Rule
 - Track task success, step quality, latency, and cost on every benchmark run.
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

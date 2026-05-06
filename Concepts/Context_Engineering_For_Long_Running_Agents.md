@@ -26,12 +26,12 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Agent_Memory_Patterns]]
-- [[Resources/Concepts/Context_Window_And_Attention_Budget]]
-- [[Resources/Concepts/Tool_Use_And_Action_Policies]]
+- [[Concepts/Agent_Memory_Patterns]]
+- [[Concepts/Context_Window_And_Attention_Budget]]
+- [[Concepts/Tool_Use_And_Action_Policies]]
 
-> Related Hub: [[Resources/Hubs/AI_Agents]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/AI_Agents]]
+> Core Node: [[START_HERE]]

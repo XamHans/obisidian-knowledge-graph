@@ -27,16 +27,16 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Resources/Software/Phoenix]]
-- [[Technologies/OpenAI_Apps_SDK]]
+- [[Tools/Phoenix]]
+- [[Tools/OpenAI_Apps_SDK]]
 
 ## Related Concepts
-- [[Resources/Concepts/Fine_Tuning_Adaptation_Strategies]]
-- [[Resources/Concepts/Tool_Use_And_Action_Policies]]
-- [[Resources/Concepts/Agent_Observability_And_Evaluation]]
+- [[Concepts/Fine_Tuning_Adaptation_Strategies]]
+- [[Concepts/Tool_Use_And_Action_Policies]]
+- [[Concepts/Agent_Observability_And_Evaluation]]
 
 > Related Hub: [[Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

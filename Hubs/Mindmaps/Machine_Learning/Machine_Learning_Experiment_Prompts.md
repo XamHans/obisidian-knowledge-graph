@@ -18,4 +18,4 @@
 ## Execution Rule
 - For each prompt, publish: hypothesis, setup, metrics, result, failure analysis, next action.
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

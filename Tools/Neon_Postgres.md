@@ -24,9 +24,9 @@ linked_hubs:
 - [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^rerank-stack]]
 
 ## Related Concepts
-- [[Resources/Concepts/Agentic_RAG]]
-- [[Resources/Concepts/Hierarchical_RAG]]
-- [[Resources/Concepts/RAG_Re_Ranking]]
+- [[Concepts/Agentic_RAG]]
+- [[Concepts/Hierarchical_RAG]]
+- [[Concepts/RAG_Re_Ranking]]
 
 ## Linked Hubs
 - [[Hubs/RAG]]

@@ -18,4 +18,4 @@
 ## Execution Rule
 - Log dataset assumptions, metrics, edge cases, and production implications after each run.
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

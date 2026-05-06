@@ -1,7 +1,7 @@
 # Vault Structure Overview
 
 - All vault folders and notes use underscore-separated, TitleCased filenames (no spaces or dashes; keep acronyms uppercase).
-- Every note carries `> Core Node: [[Projects/AI_Native_Engineer]]` so the graph centers on the program.
+- Every note carries `> Core Node: [[START_HERE]]` so the graph centers on the program.
 - `Inbox/` – capture zone for new material; `Inbox/Transcripts_to_Process` holds raw subtitle drops awaiting ingestion.
 - `Resources/` – canonical references:
   - `Resources/Hubs/` stores map-of-content notes that anchor concept clusters and technology rollups.
@@ -17,4 +17,4 @@
 
 - Hubs can be nested—use `parent_hub`/`child_hubs` fields in front matter to make relationships explicit (e.g., Model_Context_Protocol → ChatGPT_Apps) and keep detection accurate.
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

@@ -36,14 +36,14 @@ evidence_status: has_receipts
 - [[Resources/Processed_Transcripts/Improving_Agentic_Products_Adam_Lucek#^judge-alignment-iteration]]
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Agent_Observability_And_Evaluation]]
-- [[Resources/Concepts/Evaluation_Metrics_Classification_Regression]]
-- [[Resources/Concepts/RAG_Evaluation_And_Groundedness]]
-- [[Resources/Concepts/LLM_Judge_Meta_Evaluation]]
-- [[Resources/Concepts/Eval_Engineering_Lifecycle]]
+- [[Concepts/Agent_Observability_And_Evaluation]]
+- [[Concepts/Evaluation_Metrics_Classification_Regression]]
+- [[Concepts/RAG_Evaluation_And_Groundedness]]
+- [[Concepts/LLM_Judge_Meta_Evaluation]]
+- [[Concepts/Eval_Engineering_Lifecycle]]
 
-> Related Hub: [[Resources/Hubs/LLM_Evals]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/LLM_Evals]]
+> Core Node: [[START_HERE]]

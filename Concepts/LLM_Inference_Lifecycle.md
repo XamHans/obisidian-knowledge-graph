@@ -32,20 +32,20 @@ evidence_backlog:
 - BentoML LLM Inference Handbook — How LLM Inference Works (2025).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Resources/Technologies/BentoML]]
+- [[Tools/BentoML]]
 
 ## Related Concepts
-- [[Resources/Concepts/KV_Cache_And_Prefill_Decode_Phases]]
-- [[Resources/Concepts/Decoding_Strategies_And_Sampling]]
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
-- [[Resources/Concepts/Transformer_Architecture]]
-- [[Resources/Concepts/LLM_Training_Vs_Inference]]
-- [[Resources/Concepts/AI_Inference_Hardware]]
-- [[Resources/Concepts/Distributed_LLM_Inference]]
-- [[Resources/Concepts/Serverless_Vs_Self_Hosted_Inference]]
+- [[Concepts/KV_Cache_And_Prefill_Decode_Phases]]
+- [[Concepts/Decoding_Strategies_And_Sampling]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/Transformer_Architecture]]
+- [[Concepts/LLM_Training_Vs_Inference]]
+- [[Concepts/AI_Inference_Hardware]]
+- [[Concepts/Distributed_LLM_Inference]]
+- [[Concepts/Serverless_Vs_Self_Hosted_Inference]]
 
-> Related Hub: [[Resources/Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/Generative_AI]]
+> Core Node: [[START_HERE]]

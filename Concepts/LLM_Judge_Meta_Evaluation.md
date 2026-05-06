@@ -30,15 +30,15 @@ evidence_status: has_receipts
 - [[Resources/Processed_Transcripts/Improving_Agentic_Products_Adam_Lucek#^judge-alignment-iteration]]
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Resources/Software/Phoenix]]
+- [[Tools/Phoenix]]
 
 ## Related Concepts
-- [[Resources/Concepts/LLM_As_Judge_Evaluation]]
-- [[Resources/Concepts/Evaluation_Metrics_Classification_Regression]]
-- [[Resources/Concepts/Agent_Observability_And_Evaluation]]
+- [[Concepts/LLM_As_Judge_Evaluation]]
+- [[Concepts/Evaluation_Metrics_Classification_Regression]]
+- [[Concepts/Agent_Observability_And_Evaluation]]
 
 > Related Hub: [[Hubs/LLM_Evals]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

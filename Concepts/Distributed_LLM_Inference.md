@@ -32,17 +32,17 @@ evidence_backlog:
 - BentoML LLM Inference Handbook — Distributed Inference (2025).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Resources/Technologies/BentoML]]
+- [[Tools/BentoML]]
 
 ## Related Concepts
-- [[Resources/Concepts/KV_Cache_And_Prefill_Decode_Phases]]
-- [[Resources/Concepts/AI_Inference_Hardware]]
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
-- [[Resources/Concepts/Transformer_Architecture]]
-- [[Resources/Concepts/LLM_Inference_Lifecycle]]
+- [[Concepts/KV_Cache_And_Prefill_Decode_Phases]]
+- [[Concepts/AI_Inference_Hardware]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/Transformer_Architecture]]
+- [[Concepts/LLM_Inference_Lifecycle]]
 
-> Related Hub: [[Resources/Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/Generative_AI]]
+> Core Node: [[START_HERE]]

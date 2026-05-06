@@ -26,11 +26,11 @@ linked_hubs:
 - [[Resources/Processed_Transcripts/LLM_Judge_Meta_Evaluation_Phoenix#^prompt-iterate-results]]
 
 ## Related Concepts
-- [[Resources/Concepts/LLM_Judge_Meta_Evaluation]]
-- [[Resources/Concepts/LLM_As_Judge_Evaluation]]
-- [[Resources/Concepts/Eval_Engineering_Lifecycle]]
+- [[Concepts/LLM_Judge_Meta_Evaluation]]
+- [[Concepts/LLM_As_Judge_Evaluation]]
+- [[Concepts/Eval_Engineering_Lifecycle]]
 
 ## Linked Hubs
 - [[Hubs/LLM_Evals]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

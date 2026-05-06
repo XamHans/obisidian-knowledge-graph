@@ -27,16 +27,16 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/Docker]]
-- [[Technologies/Google_Cloud_Run]]
+- [[Tools/Docker]]
+- [[Tools/Google_Cloud_Run]]
 
 ## Related Concepts
-- [[Resources/Concepts/Transformer_Architecture]]
-- [[Resources/Concepts/Representation_Learning_For_Vision]]
-- [[Resources/Concepts/Multimodal_LLMs]]
+- [[Concepts/Transformer_Architecture]]
+- [[Concepts/Representation_Learning_For_Vision]]
+- [[Concepts/Multimodal_LLMs]]
 
 > Related Hub: [[Hubs/Computer_Vision]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

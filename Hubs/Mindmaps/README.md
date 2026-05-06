@@ -9,11 +9,11 @@ This folder contains markmap-ready Markdown exports grouped by major AI topic.
 - Use `*_Experiment_Prompts.md` to convert map nodes into practical exercises.
 
 ## Topics
-- [[mindmap/Machine_Learning/Machine_Learning_Map]]
-- [[mindmap/Computer_Vision/Computer_Vision_Map]]
-- [[mindmap/Generative_AI/Generative_AI_Map]]
-- [[mindmap/RAG_And_Knowledge_Systems/RAG_And_Knowledge_Systems_Map]]
-- [[mindmap/AI_Agents/AI_Agents_Map]]
-- [[mindmap/Agent_Tool_Calling/Agent_Tool_Calling_Map]]
+- [[Hubs/Mindmaps/Machine_Learning/Machine_Learning_Map]]
+- [[Hubs/Mindmaps/Computer_Vision/Computer_Vision_Map]]
+- [[Hubs/Mindmaps/Generative_AI/Generative_AI_Map]]
+- [[Hubs/Mindmaps/RAG_And_Knowledge_Systems/RAG_And_Knowledge_Systems_Map]]
+- [[Hubs/Mindmaps/AI_Agents/AI_Agents_Map]]
+- [[Hubs/Mindmaps/Agent_Tool_Calling/Agent_Tool_Calling_Map]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

@@ -18,17 +18,17 @@ persona: Professional Seeking AI Mastery
 - [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^rerank-stack]]
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/Dockling]]
-- [[Technologies/PGVector]]
+- [[Tools/Dockling]]
+- [[Tools/PGVector]]
 
 ## Related Concepts
-- [[Resources/Concepts/Hierarchical_RAG]]
-- [[Resources/Concepts/Contextual_Retrieval]]
-- [[Resources/Concepts/RAG_Re_Ranking]]
+- [[Concepts/Hierarchical_RAG]]
+- [[Concepts/Contextual_Retrieval]]
+- [[Concepts/RAG_Re_Ranking]]
 
 > Related Hub: [[Hubs/RAG]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

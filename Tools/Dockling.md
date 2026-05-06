@@ -24,9 +24,9 @@ linked_hubs:
 - [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^hierarchical]]
 
 ## Related Concepts
-- [[Resources/Concepts/Context_Aware_Chunking]]
-- [[Resources/Concepts/Contextual_Retrieval]]
-- [[Resources/Concepts/Hierarchical_RAG]]
+- [[Concepts/Context_Aware_Chunking]]
+- [[Concepts/Contextual_Retrieval]]
+- [[Concepts/Hierarchical_RAG]]
 
 ## Linked Hubs
 - [[Hubs/RAG]]

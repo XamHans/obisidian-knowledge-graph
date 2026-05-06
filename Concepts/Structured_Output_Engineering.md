@@ -26,12 +26,12 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Related Concepts
-- [[Resources/Concepts/Prompt_Engineering_Patterns]]
-- [[Resources/Concepts/Tool_Schema_Design_For_Agent_Tools]]
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/Prompt_Engineering_Patterns]]
+- [[Concepts/Tool_Schema_Design_For_Agent_Tools]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
 
-> Related Hub: [[Resources/Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Related Hub: [[Hubs/Generative_AI]]
+> Core Node: [[START_HERE]]

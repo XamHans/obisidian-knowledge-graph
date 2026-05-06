@@ -8,9 +8,9 @@ persona: Professional Seeking AI Mastery
 - Convert tool-calling theory into measurable skill by running controlled experiments on tool selection, parameter quality, and side-effect safety.
 
 ## Core Concepts
-- [[Resources/Concepts/Tool_Calling_Failure_Modes]]
-- [[Resources/Concepts/Tool_Schema_Design_For_Agent_Tools]]
-- [[Resources/Concepts/Tool_Calling_Guardrails_And_Recovery]]
+- [[Concepts/Tool_Calling_Failure_Modes]]
+- [[Concepts/Tool_Schema_Design_For_Agent_Tools]]
+- [[Concepts/Tool_Calling_Guardrails_And_Recovery]]
 
 ## Blind Spot Discovery Grid
 - **Inventory**: List every tool in your app with input schema, side-effect type (read/write), and expected failure classes.
@@ -46,10 +46,10 @@ persona: Professional Seeking AI Mastery
 - **Promoted to Vault**: concept update, technology update, or framework update.
 
 ## Related
-- [[Resources/Hubs/Agent_Tool_Calling]]
-- [[Resources/Hubs/Model_Context_Protocol]]
-- [[Technologies/FastMCP]]
-- [[Resources/Technologies/Model_Context_Protocol]]
+- [[Hubs/Agent_Tool_Calling]]
+- [[Hubs/Model_Context_Protocol]]
+- [[Tools/FastMCP]]
+- [[Tools/Model_Context_Protocol]]
 - [[Resources/Processed_Transcripts/MCP_Course_Architecture_Transport_Server_Deployment]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

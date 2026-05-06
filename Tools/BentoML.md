@@ -2,7 +2,7 @@
 type: technology
 status: active
 linked_hubs:
-  - "[[Resources/Hubs/Generative_AI]]"
+  - "[[Hubs/Generative_AI]]"
 ---
 
 ## Definition
@@ -26,12 +26,12 @@ linked_hubs:
 - BentoML LLM Inference Handbook (2025) — comprehensive guide covering inference basics, optimization, and deployment patterns.
 
 ## Related Concepts
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
-- [[Resources/Concepts/Serverless_Vs_Self_Hosted_Inference]]
-- [[Resources/Concepts/Distributed_LLM_Inference]]
-- [[Resources/Concepts/LLM_Inference_Lifecycle]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/Serverless_Vs_Self_Hosted_Inference]]
+- [[Concepts/Distributed_LLM_Inference]]
+- [[Concepts/LLM_Inference_Lifecycle]]
 
 ## Linked Hubs
-- [[Resources/Hubs/Generative_AI]]
+- [[Hubs/Generative_AI]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

@@ -9,12 +9,12 @@ persona: Professional Seeking AI Mastery
 - Prioritizes primary sources: official documentation and peer-reviewed/preprint papers.
 
 ## Priority Learning Tracks
-- **AI Agents**: [[Resources/Concepts/Agent_Architecture_Patterns]], [[Resources/Concepts/Context_Engineering_For_Long_Running_Agents]], [[Resources/Concepts/Agent_Evaluation_And_Benchmarking]], [[Resources/Concepts/Planner_Executor_Verifier_Pattern]], [[Resources/Concepts/Agent_State_Machines]]
-- **Tool Calling**: [[Resources/Concepts/Tool_Calling_Strategy_Design]], [[Resources/Concepts/Tool_Schema_Design_For_Agent_Tools]], [[Resources/Concepts/Tool_Calling_Guardrails_And_Recovery]], [[Resources/Concepts/Prompt_Injection_And_Defenses]], [[Resources/Concepts/Agent_Permissioning_And_Trust_Boundaries]]
-- **Structured Output**: [[Resources/Concepts/Structured_Output_Engineering]]
-- **Evaluation**: [[Resources/Concepts/LLM_As_Judge_Evaluation]], [[Resources/Concepts/Agent_Observability_And_Evaluation]], [[Resources/Concepts/Agent_Benchmark_Suites]], [[Resources/Concepts/RAG_Evaluation_And_Groundedness]], [[Resources/Concepts/Retrieval_Evaluation_Frameworks]]
-- **Context Engineering**: [[Resources/Concepts/Context_Engineering_For_Long_Running_Agents]], [[Resources/Concepts/Long_Context_Position_Bias]]
-- **RAG + Chunking**: [[Resources/Concepts/Chunking_Strategy_Engineering]], [[Resources/Concepts/Hybrid_Retrieval_And_Ranking]], [[Resources/Concepts/Long_Context_Vs_RAG_Decisions]], [[Resources/Concepts/Citation_And_Grounded_Answering]], [[Resources/Concepts/RAG_Evaluation_And_Groundedness]]
+- **AI Agents**: [[Concepts/Agent_Architecture_Patterns]], [[Concepts/Context_Engineering_For_Long_Running_Agents]], [[Concepts/Agent_Evaluation_And_Benchmarking]], [[Concepts/Planner_Executor_Verifier_Pattern]], [[Concepts/Agent_State_Machines]]
+- **Tool Calling**: [[Concepts/Tool_Calling_Strategy_Design]], [[Concepts/Tool_Schema_Design_For_Agent_Tools]], [[Concepts/Tool_Calling_Guardrails_And_Recovery]], [[Concepts/Prompt_Injection_And_Defenses]], [[Concepts/Agent_Permissioning_And_Trust_Boundaries]]
+- **Structured Output**: [[Concepts/Structured_Output_Engineering]]
+- **Evaluation**: [[Concepts/LLM_As_Judge_Evaluation]], [[Concepts/Agent_Observability_And_Evaluation]], [[Concepts/Agent_Benchmark_Suites]], [[Concepts/RAG_Evaluation_And_Groundedness]], [[Concepts/Retrieval_Evaluation_Frameworks]]
+- **Context Engineering**: [[Concepts/Context_Engineering_For_Long_Running_Agents]], [[Concepts/Long_Context_Position_Bias]]
+- **RAG + Chunking**: [[Concepts/Chunking_Strategy_Engineering]], [[Concepts/Hybrid_Retrieval_And_Ranking]], [[Concepts/Long_Context_Vs_RAG_Decisions]], [[Concepts/Citation_And_Grounded_Answering]], [[Concepts/RAG_Evaluation_And_Groundedness]]
 
 ## Primary Web Sources
 - OpenAI Function Calling Guide: https://developers.openai.com/api/docs/guides/function-calling
@@ -37,10 +37,10 @@ persona: Professional Seeking AI Mastery
 - Self-RAG paper: https://arxiv.org/abs/2310.11511
 
 ## Related Hubs
-- [[Resources/Hubs/AI_Concept_Universe]]
-- [[Resources/Hubs/AI_Agents]]
-- [[Resources/Hubs/Agent_Tool_Calling]]
-- [[Resources/Hubs/Generative_AI]]
-- [[Resources/Hubs/RAG]]
+- [[Hubs/AI_Concept_Universe]]
+- [[Hubs/AI_Agents]]
+- [[Hubs/Agent_Tool_Calling]]
+- [[Hubs/Generative_AI]]
+- [[Hubs/RAG]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

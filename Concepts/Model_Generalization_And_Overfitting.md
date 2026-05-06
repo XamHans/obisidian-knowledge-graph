@@ -27,16 +27,16 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Resources/Software/Phoenix]]
-- [[Technologies/Docker]]
+- [[Tools/Phoenix]]
+- [[Tools/Docker]]
 
 ## Related Concepts
-- [[Resources/Concepts/Training_Validation_Test_Splits]]
-- [[Resources/Concepts/Evaluation_Metrics_Classification_Regression]]
-- [[Resources/Concepts/Inference_Optimization_Latency_Cost]]
+- [[Concepts/Training_Validation_Test_Splits]]
+- [[Concepts/Evaluation_Metrics_Classification_Regression]]
+- [[Concepts/Inference_Optimization_Latency_Cost]]
 
 > Related Hub: [[Hubs/Machine_Learning]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

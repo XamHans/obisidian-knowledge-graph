@@ -27,16 +27,16 @@ evidence_backlog:
 - Pending receipt linkage (`needs_receipts`).
 
 ## Connected Projects
-- [[Projects/AI_Native_Engineer]]
+- [[START_HERE]]
 
 ## Linked Technologies
-- [[Technologies/PGVector]]
-- [[Resources/Software/Phoenix]]
+- [[Tools/PGVector]]
+- [[Tools/Phoenix]]
 
 ## Related Concepts
-- [[Resources/Concepts/Fine_Tuned_Embeddings]]
-- [[Resources/Concepts/Prompt_Engineering_Patterns]]
-- [[Resources/Concepts/RAG_Re_Ranking]]
+- [[Concepts/Fine_Tuned_Embeddings]]
+- [[Concepts/Prompt_Engineering_Patterns]]
+- [[Concepts/RAG_Re_Ranking]]
 
 > Related Hub: [[Hubs/Generative_AI]]
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

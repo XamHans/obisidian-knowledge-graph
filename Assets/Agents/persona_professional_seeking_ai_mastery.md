@@ -9,4 +9,4 @@
 - **Preferred Learning**: Practical, project-driven experiences tied to real-world applications, from fundamentals to advanced production techniques.
 - **Pain Points**: Fragmented resources, proof-of-concept stagnation, production gaps, and unclear progression from beginner to production-grade systems.
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]

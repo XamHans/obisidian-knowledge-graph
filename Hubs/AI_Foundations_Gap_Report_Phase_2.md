@@ -11,8 +11,8 @@ phase: ai_foundations_phase_2
 
 ## Coverage Added In Phase 2
 - **New concept notes added**: 47
-- **Web-research integration**: concepts and hub tracks aligned to official docs/papers in [[Resources/Hubs/AI_Web_Research_Atlas]].
-- **Hub refreshes**: [[Resources/Hubs/Machine_Learning]], [[Resources/Hubs/Computer_Vision]], [[Resources/Hubs/Generative_AI]], [[Resources/Hubs/RAG]], [[Resources/Hubs/AI_Agents]], [[Resources/Hubs/Agent_Tool_Calling]], [[Resources/Hubs/AI_Concept_Universe]].
+- **Web-research integration**: concepts and hub tracks aligned to official docs/papers in [[Hubs/AI_Web_Research_Atlas]].
+- **Hub refreshes**: [[Hubs/Machine_Learning]], [[Hubs/Computer_Vision]], [[Hubs/Generative_AI]], [[Hubs/RAG]], [[Hubs/AI_Agents]], [[Hubs/Agent_Tool_Calling]], [[Hubs/AI_Concept_Universe]].
 
 ## Remaining Gaps (Depth, Not Breadth)
 - Most concept notes remain `evidence_status: needs_receipts` and require transcript/paper block linkage.
@@ -25,9 +25,9 @@ phase: ai_foundations_phase_2
 - Build a recurring eval cadence for: tool selection accuracy, parameter validity, grounded citation rate, and agent task completion quality.
 
 ## Related
-- [[Resources/Hubs/AI_Concept_Universe]]
-- [[Resources/Hubs/AI_Web_Research_Atlas]]
-- [[Resources/Hubs/AI_Foundations_Gap_Report_Phase_1]]
-- [[Projects/AI_Native_Engineer]]
+- [[Hubs/AI_Concept_Universe]]
+- [[Hubs/AI_Web_Research_Atlas]]
+- [[Hubs/AI_Foundations_Gap_Report_Phase_1]]
+- [[START_HERE]]
 
-> Core Node: [[Projects/AI_Native_Engineer]]
+> Core Node: [[START_HERE]]
