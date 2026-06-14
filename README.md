@@ -90,6 +90,59 @@ Only `Concepts/`, `Tools/`, `Hubs/`, and `Assets/` are public and shared here.
 
 ---
 
+## Learn with the `/teach` skill
+
+The knowledge graph pairs with the **`/teach`** Claude Code skill — created by [Matt Pocock](https://www.mattpocock.com/) — to turn static notes into interactive, stateful lessons.
+
+Instead of reading concept files passively, you open your terminal, point Claude at the knowledge graph, and get a personalised lesson grounded in the vault's content.
+
+### What it does
+
+- Generates **beautiful HTML lessons** tailored to your level and goal
+- Tracks your **learning history** across sessions so it never repeats itself
+- Produces **reference cheat sheets** you can print or revisit later
+- Stays grounded in high-trust sources — not just LLM memory
+
+### Install the skill
+
+```bash
+claude install-skill mattpocock/teach
+```
+
+Or check the [Matt Pocock skills page](https://www.mattpocock.com/) for the latest install instructions.
+
+### How to use it with this knowledge graph
+
+Open Claude Code inside the knowledge graph folder and run:
+
+```
+/teach Use content from the knowledge graph and teach me how RAG works
+```
+
+Other examples:
+
+```
+/teach Use content from Concepts/ and teach me agent memory patterns
+/teach Use the RAG hub and teach me how to build a reranking pipeline
+/teach Use Concepts/ and teach me the difference between chunking strategies
+```
+
+Claude will read the relevant concept files, build a lesson from them, and save your progress so the next session picks up where you left off.
+
+### The teaching workspace
+
+When you run `/teach` inside this vault, it uses the `teach/` folder as its workspace:
+
+| File / Folder | Purpose |
+|---|---|
+| `teach/MISSION.md` | Why you're learning this — grounds every lesson to a real goal |
+| `teach/lessons/*.html` | Generated lessons, one per session |
+| `teach/reference/*.html` | Compressed cheat sheets for quick lookup |
+| `teach/learning-records/*.md` | What you've learned — used to calculate what to teach next |
+| `teach/RESOURCES.md` | Trusted sources the skill draws from |
+
+---
+
 ## Contributing
 
 Found a concept missing? Know a better tool for a pattern? Submit a pull request to `Concepts/` or `Tools/`. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
