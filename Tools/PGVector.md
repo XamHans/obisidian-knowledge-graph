@@ -1,32 +1,31 @@
 ---
-type: technology
-status: active
-linked_hubs:
-  - [[Hubs/RAG]]
+type: tool
+title: pgvector
+description: Postgres extension adding vector search; stores embeddings alongside relational data for dense and hybrid retrieval.
+tags: [rag, vector-db, postgres]
+resource: https://github.com/pgvector/pgvector
+stability: evolving
+as_of: 2026-06
+reviewed: 2026-06
+lifecycle: ga
 ---
 
 ## Definition
-- Postgres extension that adds vector search to relational schemas for storing and querying embeddings.
+- Open-source Postgres extension that adds a `vector` column type plus similarity operators, turning a standard Postgres database into a vector store for [[Concepts/Vector_Search|vector search]].
 
 ## Capabilities
-- Supports semantic similarity search over chunk embeddings used in RAG. *Source:* [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^rerank-stack]]
-- Works with reranking by returning wide candidate sets for cross-encoders to filter. *Source:* [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^rerank-stack]]
-- Handles parallel queries for multi-query RAG and expanded queries. *Source:* [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^multi-query]]
+- Stores [[Concepts/Text_Embeddings|embeddings]] alongside relational data — no separate vector database to operate.
+- ANN indexes: **HNSW** (high recall) and **IVFFlat** (lower memory); distance ops for cosine, L2, and inner product.
+- Combines vector similarity with SQL `WHERE` filters and full-text search — a practical base for [[Concepts/Hybrid_Retrieval|hybrid retrieval]] (dense + BM25-style keyword) in one engine.
 
 ## Integration Patterns
-- Store embeddings alongside chunk metadata (parent/child IDs, doc handles) to enable hierarchical pull-ups. *Source:* [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^hierarchical]]
-- Combine with rerankers to control token load to the LLM. *Source:* [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^rerank-stack]]
-- Fan out multi-query requests in parallel and merge results before reranking. *Source:* [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^multi-query]]
-
-## Source Transcripts
-- [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^rerank-stack]]
-- [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^multi-query]]
-- [[Resources/Processed_Transcripts/RAG_Strategies_Playbook#^hierarchical]]
+- Co-locate embeddings with chunk metadata (parent/child IDs, source, tenant) to enable metadata filtering and access control in the same query.
+- Pair first-stage pgvector retrieval with a [[Concepts/Reranking|cross-encoder reranker]] to control how many chunks reach the LLM.
 
 ## Related Concepts
-- [[Concepts/RAG_Re_Ranking]]
-- [[Concepts/Multi_Query_RAG]]
-- [[Concepts/Hierarchical_RAG]]
+- [[Concepts/Vector_Search]], [[Concepts/Hybrid_Retrieval]], [[Concepts/Text_Embeddings]]
 
 ## Linked Hubs
 - [[Hubs/RAG]]
+
+> Core Node: [[START_HERE]]

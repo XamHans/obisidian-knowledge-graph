@@ -1,0 +1,52 @@
+name: OKF Bundle
+
+# Validate every PR (the automated gate); publish the bundle + graph on merge to the
+# default branch. Members propose wikilink source notes via PR — this builds the OKF
+# bundle from the approved public layer, so the bundle is always = what was merged.
+
+on:
+  pull_request:
+  push:
+    branches: [master, main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: okf-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Build OKF bundle
+        run: python3 scripts/okf-build.py
+      - name: Validate (OKF compliance + privacy gate)
+        run: python3 scripts/okf-validate.py
+      - name: Build interactive graph
+        run: |
+          python3 scripts/okf-graph.py
+          cp okf/graph.html okf/index.html   # Pages serves the graph at the site root
+      - name: Upload Pages artifact
+        if: github.event_name == 'push'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: okf
+
+  deploy:
+    needs: build
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

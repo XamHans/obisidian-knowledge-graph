@@ -22,6 +22,37 @@ You must categorize extracted knowledge into these strict buckets. Do not invent
 ## Instructions
 When provided with a raw text, transcript, or URL content, generate a standardized Markdown file to be saved in the `Sources` directory.
 
+## The Synapse Module Asset Pipeline
+This pipeline ensures a clean transition from raw research in Obsidian to structured course content in Synapse.
+
+| Phase | Agent Skill | Output Asset | Status |
+| :--- | :--- | :--- | :--- |
+| **0. Blueprint** | N/A | `Applied/AI_Native_Engineer_Module_N.md` | **Master Roadmap** |
+| **1. Research** | `graph-coverage-mapper` | `content-provenance.json` | `mapped` |
+| **2. Synthesis** | `synapse-research-synthesizer` | `knowledge-base.md` | `synthesized` |
+| **3. Architecture** | `synapse-module-spec-writer` | `session-brief.md` | `briefed` |
+| **4. Execution** | `synapse-card-writer` | `module-concepts.json` | `drafted` |
+| **5. Quality** | `synapse-content-quality-gate` | `CONTENT-REWRITE-TRACKER.md` | `published [x]` |
+
+### Asset Locations
+- **Master Roadmap:** `Applied/AI_Native_Engineer_Module_{N}_{Title}.md` (The source of truth for session scope and testing).
+- **Session Assets:** `apps/web/courses/ai-native-engineer/courses/{module-slug}/{session-slug}/`
+  - `knowledge-base.md`: The "Technical Truth" (Synthesized research).
+  - `session-brief.md`: The "Pedagogical Blueprint" (Architecture).
+  - `module-concepts.json`: The "Final Artifact" (App JSON).
+
+
+## Local Skills
+Use `.agents/skills/knowledge-graph-advisor/SKILL.md` when the user asks for architecture advice, technical recommendations, design critique, implementation strategy, or synthesis from this Obsidian knowledge graph. That skill requires searching the vault, following relevant Obsidian wikilinks, and grounding advisor-style recommendations in the CAST graph.
+
+Use `.agents/skills/kg-ingest/SKILL.md` when the user wants to ingest raw material (URL, transcript, paper, repo) into the graph as a structured, private Source note in `Sources/` — the citeable receipt for later public notes.
+
+Use `.agents/skills/kg-contribute/SKILL.md` when a member wants to contribute general knowledge back — turning a private Source/insight into a clean, objective Concept or Tool note and opening a PR. It enforces the public/private privacy gate.
+
+## Frontmatter & OKF
+- Frontmatter schema is defined in `CONVENTIONS.md` (lean: `type/title/description/tags/stability/reviewed` + per-type fields). New notes start from `Templates/`.
+- The vault stays wikilink-native. `python3 scripts/okf-build.py` generates the standards-compliant Open Knowledge Format bundle in `okf/` (gitignored) for consumption by any agent. `scripts/migrate-frontmatter.py` applies the schema to existing notes.
+
 Follow this exact structure for your output:
 
 ### 1. Frontmatter
