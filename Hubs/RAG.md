@@ -1,23 +1,34 @@
 ---
 type: hub
-status: active
-persona: Professional Seeking AI Mastery
+title: RAG
+description: Map of content for Retrieval-Augmented Generation — the foundational concept path from chunking to evaluation, plus tools.
+tags: [rag, retrieval]
+stability: stable
+reviewed: 2026-06
 ---
 
 ## Overview
-- Hub for Retrieval Augmented Generation strategies, balancing recall, precision, groundedness, and cost through composable techniques (reranking, hybrid retrieval, chunking, graph search, and evaluation discipline).
+- Map of content for **Retrieval-Augmented Generation**: grounding LLM answers in an external knowledge base. Retrieval — not generation — is the bottleneck, so most of the leverage lives in chunking, embeddings, search, and reranking.
 
-## Map of Content
-- **Transcripts**: [[Resources/Processed_Transcripts/RAG_Strategies_Playbook]]
-- **Concepts**: [[Concepts/RAG_Re_Ranking]], [[Concepts/Agentic_RAG]], [[Concepts/Knowledge_Graph_RAG]], [[Concepts/Contextual_Retrieval]], [[Concepts/Query_Expansion_RAG]], [[Concepts/Multi_Query_RAG]], [[Concepts/Query_Rewriting_Pipelines]], [[Concepts/Context_Aware_Chunking]], [[Concepts/Late_Chunking]], [[Concepts/Chunking_Strategy_Engineering]], [[Concepts/Hierarchical_RAG]], [[Concepts/Hybrid_Retrieval_And_Ranking]], [[Concepts/Metadata_Filtering_Strategies]], [[Concepts/Fine_Tuned_Embeddings]], [[Concepts/Self_Reflective_RAG]], [[Concepts/RAG_Evaluation_And_Groundedness]], [[Concepts/Retrieval_Evaluation_Frameworks]], [[Concepts/Citation_And_Grounded_Answering]], [[Concepts/Long_Context_Vs_RAG_Decisions]], [[Concepts/Knowledge_Base_Freshness_Pipelines]], [[Concepts/RAG_Security_And_Access_Control]]
-- **Technologies**: [[Tools/Neon_Postgres]], [[Tools/PGVector]], [[Tools/Graffiti_LLM_Graphs]], [[Tools/Dockling]]
-- **Related Hubs**: [[Hubs/AI_Agents]], [[Hubs/Generative_AI]]
-- **Frameworks**: Proposed RAG stack checklist covering candidate width, rerank thresholds, and chunk metadata requirements.
+## Foundational Path
+Read in order — each builds on the last:
 
-## Linked Technologies
-- [[Tools/Neon_Postgres]]
-- [[Tools/PGVector]]
-- [[Tools/Graffiti_LLM_Graphs]]
-- [[Tools/Dockling]]
+1. [[Concepts/Retrieval_Augmented_Generation]] — the pipeline and why it exists
+2. [[Concepts/Chunking_Strategies]] — how documents are split
+3. [[Concepts/Text_Embeddings]] — turning text into searchable vectors
+4. [[Concepts/Vector_Search]] — fast nearest-neighbour retrieval
+5. [[Concepts/Hybrid_Retrieval]] — dense + BM25 with RRF (biggest quality jump)
+6. [[Concepts/Reranking]] — precision via cross-encoders
+7. [[Concepts/Query_Transformation]] — multi-query, HyDE, decomposition
+8. [[Concepts/Contextual_Retrieval]] — Anthropic's chunk-context technique
+9. [[Concepts/RAG_Evaluation]] — RAGAS: faithfulness, relevancy, context precision/recall
+
+## Tools
+- [[Tools/PGVector]] — Postgres vector store for dense + hybrid retrieval
+- [[Tools/Cohere_Rerank]] — managed cross-encoder reranking endpoint
+
+## Related Hubs
+- [[Hubs/LLM_Evals]] — evaluation discipline that RAG eval builds on
+- [[Hubs/AI_Agents]] — agentic RAG and tool-driven retrieval
 
 > Core Node: [[START_HERE]]

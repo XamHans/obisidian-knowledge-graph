@@ -9,3 +9,7 @@ Applied/
 Sources/
 Daily_Notes/
 mindmap/
+Technical_Knowledge_Graph/
+
+# Generated OKF bundle (derived artifact — regenerate with: python3 scripts/okf-build.py)
+okf/

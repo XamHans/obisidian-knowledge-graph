@@ -27,7 +27,25 @@ A note is only useful if it is connected.
 - `/Sources` (Raw transcripts/data)
 - `/Daily_Notes` (Personal workspace)
 
-Our `.gitignore` is configured to prevent this, but please double-check before pushing.
+Our `.gitignore` is configured to prevent this, but please double-check before pushing. The fastest safe path is the `kg-contribute` skill, which drafts the note from `CONVENTIONS.md` + `Templates/`, runs a privacy scan, and opens the PR for you.
+
+## Governance — how a PR becomes the bundle
+
+- **Members open PRs; nobody pushes to the default branch.** It is protected: every change needs a PR + 1 approving review + green CI.
+- **Nobody hand-edits `okf/`.** The OKF bundle is *generated*. You edit only wikilink source notes under `Concepts/`, `Tools/`, `Hubs/`. On merge, CI runs `okf-build`, validates, and publishes the bundle + interactive graph to GitHub Pages — so the bundle always equals the approved public layer.
+- **Two privacy layers:** the `kg-contribute` skill scans your draft *before* the PR; CI (`scripts/okf-validate.py`) re-checks that nothing links into the private layer and that every note is OKF-valid. Maintainer review is the final gate.
+
+### One-time maintainer setup
+1. **Pages:** Settings → Pages → Source: **GitHub Actions**.
+2. **Branch protection** (require PR + review + the `build` check):
+   ```bash
+   gh api --method PUT repos/OWNER/REPO/branches/master/protection --input - <<'JSON'
+   { "required_status_checks": { "strict": true, "contexts": ["build"] },
+     "enforce_admins": false,
+     "required_pull_request_reviews": { "required_approving_review_count": 1 },
+     "restrictions": null }
+   JSON
+   ```
 
 ---
 Happy Engineering!
