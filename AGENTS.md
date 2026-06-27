@@ -26,4 +26,5 @@ Required `type`; authored `description` (progressive disclosure); `tags`; `stabi
 
 ## Rules
 - **Public vs private:** collaborate on objective Concepts & Tools (no project specifics). Never commit `Sources/`, `Applied/`, or `Daily_Notes/`.
+- **Sourcing & quality bar:** public notes are researched, not recalled — verified sources only (open every URL; no fabricated citations), concrete + correct, in the standard note shape. Canonical standard in `CONVENTIONS.md`.
 - **Never hand-edit `okf/`** — it is generated. Members open PRs; CI validates; merge publishes.

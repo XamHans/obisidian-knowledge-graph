@@ -34,6 +34,27 @@ PRIVATE:                source · applied
 - **Hubs are navigation, not a third kind of knowledge.** They are this vault's expression of OKF's `index.md` — curated role/topic maps that link into the graph.
 - **Type-first folders + links — do NOT cluster by topic.** ~91% of concepts belong to ≥2 topics (e.g. `Prompt_Injection_And_Defenses` lives under RAG, Agents, Evals, Security). A topic-first tree would force a single home and break multi-membership; the links carry the real graph, exactly as OKF intends.
 
+## Sourcing & quality bar (authoring standard)
+
+A Concept or Tool note is **reference material a senior engineer would trust**, not a summary. This is the canonical bar every public note must clear — the writing skills (`kg-contribute`, `kg-ingest`) reference this section rather than restating it.
+
+- **Researched, not recalled.** Ground the note in real, *verified* external sources — never parametric memory alone. Do actual web research; target **4–6 authoritative sources** (canonical papers / arXiv, official docs, respected explainers such as Distill, Lil'Log, Stanford CS notes, vendor docs).
+- **Every URL verified.** Find via search, then **open each one (WebFetch) to confirm it resolves and actually supports the claim.** Never invent, guess, or cite a URL you did not open; drop anything you can't confirm. No fabricated citations, ever.
+- **Concrete & correct.** Name the actual methods, numbers, and tradeoffs; correct common folklore. No vague "playbook" bullets or placeholder structure — if it reads like boilerplate, research and rewrite.
+
+### Note body shape (house structure)
+```
+## Why It Matters              ← the stakes, in 1–3 sharp bullets
+## <2–4 substantive sections>  ← real mechanisms, numbers, tradeoffs, corrections
+## Related                     ← 2–4 [[wikilinks]] + `Hub: [[Hubs/<Hub>]]`
+## Sources                     ← verified links: [Title](URL) — one line on what it grounds
+> Core Node: [[START_HERE]]
+```
+Forward-refs to not-yet-written notes are fine — they mark the rework backlog and degrade to plain text in the bundle.
+
+### `evidence_status` flip (the receipt rule)
+Set `evidence_status: has_receipts` **iff** a `## Sources` block of verified links exists; otherwise `needs_receipts` + an `evidence_backlog: [...]` listing what's missing. Tools ground the same way via `resource` + a `## Sources` block. Private `Sources/` receipts (see `kg-ingest`) follow the same "verified provenance, no fabrication" principle, captured with enough specificity to cite later.
+
 ## Universal fields (every note)
 
 | Field | Question | Values / format | Default |
