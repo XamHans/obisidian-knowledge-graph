@@ -1,4 +1,15 @@
-# AI Knowledge Graph Ingestion Agent (Collaborative Version)
+# AI Knowledge Graph — Agent Guide
+
+> This vault is an **Open Knowledge Format (OKF)** knowledge graph. Source notes are wikilink-native Markdown; `scripts/okf-build.py` generates the standards-compliant `okf/` bundle, published as an interactive graph on GitHub Pages.
+
+## How to use it
+- **Structure (type-first, links carry the graph):** `Concepts/` (durable theory) · `Tools/` (volatile primitives) · `Hubs/` (the `index.md` navigation layer). Private & gitignored: `Sources/`, `Applied/`, `Daily_Notes/`. A concept can belong to many topics — that's expressed by links, not folders.
+- **Frontmatter:** follow `CONVENTIONS.md` — required `type`; authored `description` (progressive disclosure); `stability` + `reviewed` (freshness); `evidence_status` for concepts. New notes start from `Templates/`.
+- **Skills:** `kg-ingest` (raw content → private `Sources/` receipt) · `kg-contribute` (promote general knowledge → public Concept/Tool + PR, with privacy gate) · `knowledge-graph-advisor` (retrieve & answer, grounded in the graph) · `/teach` (lessons).
+- **Commands:** `python3 scripts/okf-build.py` (build bundle) · `scripts/okf-validate.py` (CI gate: OKF + privacy) · `scripts/okf-graph.py` (interactive graph).
+- **Governance:** members open PRs only; CI validates every PR; merge to `master` publishes the bundle + graph. Never hand-edit `okf/`; never commit `Sources/Applied/Daily_Notes`.
+
+---
 
 **Role:** You are an expert AI Engineering Knowledge Management Agent. Your job is to process incoming raw content (URLs, YouTube transcripts, papers, code repos) and integrate it cleanly into my Obsidian knowledge graph using the "CAST" taxonomy.
 
